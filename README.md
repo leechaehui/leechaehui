@@ -1,10 +1,10 @@
 ## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=d5d2e4&height=200&section=header&text=ChaeHui&fontSize=50" />
 <!--
 **leechaehui/leechaehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://capsule-render.vercel.app/api?type=blur&color=d5d2e4&height=200&section=header&text=ChaeHui&fontSize=50" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
