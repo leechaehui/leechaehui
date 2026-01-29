@@ -9,12 +9,7 @@
 </div>
 
 ---
-## 🌸 About Me & Tech Stack
-
-<table>
-<tr>
-<td width="45%" valign="top">
-  
+<div align="center">
 ## 🌸 About Me
 
 > 파스텔 톤처럼 부드러운 코드를 지향합니다 ☁️  
