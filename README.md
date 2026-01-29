@@ -12,49 +12,59 @@
 
 ## 🌸 About Me & Tech Stack
 
-<table style="width:100; table-layout:fixed;">
-<tr>
-<td style="width:50; vertical-align:top; padding-right:20;">
+<table width="100%" style="table-layout:fixed;">
+  <colgroup>
+    <col style="width:50%;" />
+    <col style="width:50%;" />
+  </colgroup>
+  <tr>
+    <td valign="top" style="padding:20px;">
 
-<b>🌷 About Me</b>
+      <b>🌷 About Me</b><br/><br/>
 
-<br/><br/>
+      <ul>
+        <li>✨ 개발하면서 <b>감성 & 가독성</b>을 중요하게 생각해요</li>
+        <li>🌱 요즘 배우는 것
+          <ul>
+            <li>React</li>
+            <li>Spring</li>
+            <li>Clean Code</li>
+          </ul>
+        </li>
+        <li>💬 관심사
+          <ul>
+            <li>UI/UX</li>
+            <li>생산성</li>
+          </ul>
+        </li>
+        <li>🎯 목표
+          <ul>
+            <li>오래 써도 편한 코드 작성하기</li>
+          </ul>
+        </li>
+      </ul>
 
-- ✨ 개발하면서 **감성 & 가독성**을 중요하게 생각해요  
-- 🌱 요즘 배우는 것  
-  - React  
-  - Spring  
-  - Clean Code  
-- 💬 관심사  
-  - UI/UX  
-  - 생산성  
-- 🎯 목표  
-  - 오래 써도 편한 코드 작성하기  
+    </td>
 
-</td>
+    <td valign="top" style="padding:20px;">
 
-<td style="width:50; vertical-align:top; padding-left:20;">
+      <b>🎨 Tech Stack</b><br/><br/>
 
-<b>🎨 Tech Stack</b>
+      <b>Languages</b><br/>
+      ![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat)
+      ![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat)
 
-<br/><br/>
+      <br/><br/>
 
-<b>Languages</b><br/>
-![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat)
-![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat)
+      <b>Frameworks & Tools</b><br/>
+      ![React](https://img.shields.io/badge/React-CFF3F2?style=flat)
+      ![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat)
+      ![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat)
 
-<br/><br/>
-
-<b>Frameworks & Tools</b><br/>
-![React](https://img.shields.io/badge/React-CFF3F2?style=flat)
-![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat)
-![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat)
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
 
 ---
 
