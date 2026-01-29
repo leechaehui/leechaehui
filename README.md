@@ -10,61 +10,32 @@
 
 ---
 
-## 🌸 About Me & Tech Stack
+## 🌸 About Me
+> 파스텔 톤처럼 부드러운 코드를 지향합니다 ☁️  
 
-<table width="100%">
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
-  <tr>
-    <td valign="top">
+- ✨ Frontend / Backend / Fullstack (원하는 거 남기기)
+- 🌱 요즘 배우는 것: **React, Spring, AI, etc**
+- 💬 관심사: **UI/UX, 클린 코드, 생산성**
+- 🎯 목표: **꾸준히 성장하는 개발자**
 
-      <b>🌷 About Me</b><br/><br/>
+## 🎨 Tech Stack
 
-      <ul>
-        <li>✨ 개발하면서 <b>감성 & 가독성</b>을 중요하게 생각해요</li>
-        <li>🌱 요즘 배우는 것
-          <ul>
-            <li>React</li>
-            <li>Spring</li>
-            <li>Clean Code</li>
-          </ul>
-        </li>
-        <li>💬 관심사
-          <ul>
-            <li>UI/UX</li>
-            <li>생산성</li>
-          </ul>
-        </li>
-        <li>🎯 목표
-          <ul>
-            <li>오래 써도 편한 코드 작성하기</li>
-          </ul>
-        </li>
-      </ul>
+<table>
+<tr>
+<td width="50%">
 
-    </td>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat&logo=JavaScript&logoColor=333)
 
-    <td valign="top">
+### 🧩 Frameworks
+![React](https://img.shields.io/badge/React-CFF3F2?style=flat&logo=React&logoColor=333)
+![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat&logo=Spring&logoColor=333)
 
-      <b>🎨 Tech Stack</b><br/><br/>
+</td>
+<td width="50%">
 
-      <b>Languages</b><br/>
-      <img src="https://img.shields.io/badge/Java-F6C1CC?style=flat"/>
-      <img src="https://img.shields.io/badge/Python-C1D9F6?style=flat"/>
-      <img src="https://img.shields.io/badge/JavaScript-FFF1A8?style=flat"/>
-
-      <br/><br/>
-
-      <b>Frameworks & Tools</b><br/>
-      <img src="https://img.shields.io/badge/React-CFF3F2?style=flat"/>
-      <img src="https://img.shields.io/badge/Spring-DFF5C9?style=flat"/>
-      <img src="https://img.shields.io/badge/Git-EFD6C5?style=flat"/>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
