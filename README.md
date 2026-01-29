@@ -2,7 +2,7 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h5 align="center">✨ Languages & Platforms ✨</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/표시되는 이름-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 <!--
 **leechaehui/leechaehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
