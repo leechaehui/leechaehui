@@ -2,7 +2,7 @@
 <!-- 🌷 Pastel GitHub Profile -->
 <!-- ========================= -->
 
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=bab7cc&height=200&section=header&text=ChaeHui&fontSize=50" />
 
