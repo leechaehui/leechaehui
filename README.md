@@ -11,10 +11,11 @@
 ---
 
 ## 🌸 About Me
-> 파스텔 톤처럼 부드러운 코드를 지향합니다 ☁️  
 <table>
 <tr>
 <td width="50%">
+> 파스텔 톤처럼 부드러운 코드를 지향합니다 ☁️  
+
 - ✨ Frontend / Backend / Fullstack (원하는 거 남기기)
 - 🌱 요즘 배우는 것: **React, Spring, AI, etc**
 - 💬 관심사: **UI/UX, 클린 코드, 생산성**
