@@ -16,9 +16,7 @@
 <td width="45%" valign="top">
   
 ## 🌸 About Me
-<table>
-<tr>
-<td width="50%">
+
 > 파스텔 톤처럼 부드러운 코드를 지향합니다 ☁️  
 
 - ✨ Frontend / Backend / Fullstack (원하는 거 남기기)
