@@ -12,9 +12,9 @@
 
 ## 🌸 About Me & Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌷 About Me
 
@@ -31,13 +31,7 @@
 
 </td>
 
-<td width="10%" align="center" valign="middle">
-
-### │
-
-</td>
-
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎨 Tech Stack
 
@@ -56,6 +50,7 @@
 </td>
 </tr>
 </table>
+
 
 ---
 
