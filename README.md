@@ -1,4 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=bab7cc&height=200&section=header&text=ChaeHui&fontSize=50" />
+<h3 align="center">📚 Tech Stack 📚</h3>
+<h5 align="center">✨ Languages & Platforms ✨</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-#3776ab?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
 <!--
 **leechaehui/leechaehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
