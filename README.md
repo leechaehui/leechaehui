@@ -12,13 +12,13 @@
 
 ## 🌸 About Me & Tech Stack
 
-<table width="100%" style="table-layout:fixed;">
+<table width="100%">
   <colgroup>
-    <col style="width:50%;" />
-    <col style="width:50%;" />
+    <col width="50%">
+    <col width="50%">
   </colgroup>
   <tr>
-    <td valign="top" style="padding:20px;">
+    <td valign="top">
 
       <b>🌷 About Me</b><br/><br/>
 
@@ -46,21 +46,21 @@
 
     </td>
 
-    <td valign="top" style="padding:20px;">
+    <td valign="top">
 
       <b>🎨 Tech Stack</b><br/><br/>
 
       <b>Languages</b><br/>
-      ![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat)
-      ![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat)
-      ![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat)
+      <img src="https://img.shields.io/badge/Java-F6C1CC?style=flat"/>
+      <img src="https://img.shields.io/badge/Python-C1D9F6?style=flat"/>
+      <img src="https://img.shields.io/badge/JavaScript-FFF1A8?style=flat"/>
 
       <br/><br/>
 
       <b>Frameworks & Tools</b><br/>
-      ![React](https://img.shields.io/badge/React-CFF3F2?style=flat)
-      ![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat)
-      ![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat)
+      <img src="https://img.shields.io/badge/React-CFF3F2?style=flat"/>
+      <img src="https://img.shields.io/badge/Spring-DFF5C9?style=flat"/>
+      <img src="https://img.shields.io/badge/Git-EFD6C5?style=flat"/>
 
     </td>
   </tr>
