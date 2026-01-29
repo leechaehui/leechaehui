@@ -12,11 +12,13 @@
 
 ## 🌸 About Me & Tech Stack
 
-<table width="100%">
+<table style="width:100%; table-layout:fixed;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align:top; padding-right:20px;">
 
-### 🌷 About Me
+<b>🌷 About Me</b>
+
+<br/><br/>
 
 - ✨ 개발하면서 **감성 & 가독성**을 중요하게 생각해요  
 - 🌱 요즘 배우는 것  
@@ -27,25 +29,27 @@
   - UI/UX  
   - 생산성  
 - 🎯 목표  
-  - 오래 써도 편한 코드 작성하기
+  - 오래 써도 편한 코드 작성하기  
 
 </td>
 
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align:top; padding-left:20px;">
 
-### 🎨 Tech Stack
+<b>🎨 Tech Stack</b>
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat&logo=JavaScript&logoColor=333)
+<br/><br/>
 
-<br/>
+<b>Languages</b><br/>
+![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat)
+![Python](https://img.shields.io/badge/Python-C1D9F6?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF1A8?style=flat)
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-CFF3F2?style=flat&logo=React&logoColor=333)
-![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat&logo=Spring&logoColor=333)
-![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat&logo=Git&logoColor=333)
+<br/><br/>
+
+<b>Frameworks & Tools</b><br/>
+![React](https://img.shields.io/badge/React-CFF3F2?style=flat)
+![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat)
+![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat)
 
 </td>
 </tr>
