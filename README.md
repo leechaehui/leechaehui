@@ -9,7 +9,12 @@
 </div>
 
 ---
+## 🌸 About Me & Tech Stack
 
+<table>
+<tr>
+<td width="45%" valign="top">
+  
 ## 🌸 About Me
 <table>
 <tr>
