@@ -1,20 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=bab7cc&height=200&section=header&text=ChaeHui&fontSize=50" />
-<h3 align="center">📚 Tech Stack 📚</h3>
-<h5 align="center">✨ Languages & Platforms ✨</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaehui&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=leechaehui&show_icons=true">
-</p>
 <!-- ========================= -->
 <!-- 🌷 Pastel GitHub Profile -->
 <!-- ========================= -->
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=EADCF8&height=180&section=header&text=Hello,%20I'm%20YourName!&fontColor=6B4EFF&fontSize=40)
+<img src="https://capsule-render.vercel.app/api?type=blur&color=bab7cc&height=200&section=header&text=ChaeHui&fontSize=50" />
 
 </div>
 
@@ -88,7 +78,10 @@
 - 🌐 Blog: **https://your-blog.com**
 
 ---
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaehui&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=leechaehui&show_icons=true">
+</p>
 <div align="center">
 
 ### ✨ Thanks for visiting ✨  
