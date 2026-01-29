@@ -2,7 +2,7 @@
 <!-- 🌷 Pastel GitHub Profile -->
 <!-- ========================= -->
 
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=bab7cc&height=200&section=header&text=ChaeHui&fontSize=50" />
 
@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-F6C1CC?style=flat&logo=Java&logoColor=white)
@@ -35,7 +35,7 @@
 ![Spring](https://img.shields.io/badge/Spring-DFF5C9?style=flat&logo=Spring&logoColor=333)
 
 </td>
-<td width="100%">
+<td width="50%">
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat&logo=Git&logoColor=333)
