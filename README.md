@@ -18,6 +18,8 @@
 - 💬 관심사: **UI/UX, 클린 코드, 생산성**
 - 🎯 목표: **꾸준히 성장하는 개발자**
 
+---
+
 ## 🎨 Tech Stack
 
 <table>
@@ -36,6 +38,14 @@
 </td>
 <td width="50%">
 
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-EFD6C5?style=flat&logo=Git&logoColor=333)
+![Docker](https://img.shields.io/badge/Docker-C9E6FF?style=flat&logo=Docker&logoColor=333)
+![Figma](https://img.shields.io/badge/Figma-FADADD?style=flat&logo=Figma&logoColor=333)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,17 +78,13 @@
 - 🌐 Blog: **https://your-blog.com**
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaehui&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=leechaehui&show_icons=true">
-</p>
+
 <div align="center">
 
 ### ✨ Thanks for visiting ✨  
 부드럽지만 단단한 개발자가 되고 싶어요 🌸
 
 </div>
-
 <!--
 **leechaehui/leechaehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
