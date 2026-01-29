@@ -12,9 +12,9 @@
 
 ## 🌸 About Me & Tech Stack
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100; table-layout:fixed;">
 <tr>
-<td style="width:50%; vertical-align:top; padding-right:20px;">
+<td style="width:50; vertical-align:top; padding-right:20;">
 
 <b>🌷 About Me</b>
 
@@ -33,7 +33,7 @@
 
 </td>
 
-<td style="width:50%; vertical-align:top; padding-left:20px;">
+<td style="width:50; vertical-align:top; padding-left:20;">
 
 <b>🎨 Tech Stack</b>
 
