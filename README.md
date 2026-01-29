@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechaehui&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=leechaehui&show_icons=true">
+</p>
 <!--
 **leechaehui/leechaehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
