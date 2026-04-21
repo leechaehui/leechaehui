@@ -74,39 +74,13 @@
 
 ## 🌼 Projects
 
-### 🌷 피부묘기증 분석 및 관리 CDSS
-- 📌 설명: 만성 가려움증(피부묘기증)을 데이터 기반으로 분석하고 관리 방안을 제시하는 시스템  
-- 🔍 주요 기능:
-  - VGG16 기반 **이미지 유사도 분석**
-  - 증상 기반 **디시전 트리 분류 모델**
-  - **항히스타민제 처방 패턴 분석**
-  - 사용자 입력 기반 **가려움 기록 앱 UI 설계**
-- 📊 성과:
-  - 평균 유사도 0.7123으로 질환 판별 가능성 확인
-  - 데이터 기반 객관적인 질환 분류 구조 구현 :contentReference[oaicite:0]{index=0}
-- 🛠 Tech: Python, Scikit-learn, VGG16, Pandas
+## 🌼 Projects
 
----
-
-### 🌼 ICU AKI 예측 CDSS (진행 중)
-- 📌 설명: ICU 환자의 48시간 내 급성 신손상(AKI) 발생을 예측하는 모델 개발
-- 🔍 주요 기능:
-  - MIMIC-IV 기반 **코호트 구축 및 전처리**
-  - **XGBoost + SHAP 기반 예측 모델**
-  - Creatinine, BUN, Urine, MAP 등 임상 변수 활용
-- 📊 핵심 포인트:
-  - 임상 기준(KDIGO) 기반 feature engineering
-  - 설명 가능한 AI 적용으로 의료 해석 가능성 확보
-- 🛠 Tech: Python, XGBoost, SHAP, PostgreSQL
-
----
-
-### ☁️ AI 기반 업무 자동화 시스템
-- 📌 설명: 반복 업무를 자동화하고 일정 관리를 지원하는 AI 서비스
-- 🔍 주요 기능:
-  - 일정 자동 생성 및 추천
-  - 사용자 입력 기반 업무 최적화
-- 🛠 Tech: Python, Flask, OpenAI API
+| Name | Description | Key Features | Tech |
+|------|------------|-------------|------|
+| 🌷 피부묘기증 CDSS | 만성 가려움증을 데이터 기반으로 분석하고 관리 지원 | 이미지 유사도 분석(VGG16), 디시전트리 분류, 처방 패턴 분석 | Python, Scikit-learn |
+| 🌼 ICU AKI 예측 | ICU 환자의 48시간 내 AKI 발생 예측 모델 | XGBoost + SHAP, 임상 변수 기반 예측, 설명 가능한 AI | Python, XGBoost, PostgreSQL |
+| ☁️ 업무 자동화 AI | 일정 및 반복 업무 자동화 서비스 | 일정 추천, 업무 최적화 | Python, Flask, OpenAI |
 
 ---
 
@@ -125,14 +99,3 @@
 
 </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
