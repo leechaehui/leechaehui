@@ -8,7 +8,7 @@
 
 ### 📊 Data Analyst | ChaeHui
 
-# **데이터에서 문제를 발견하고, 분석을 통해 해결책을 찾는 이채희입니다.**
+## **데이터에서 문제를 발견하고, 분석을 통해 해결책을 찾는 이채희입니다.**
 
 데이터를 분석하는 데 그치지 않고, 의미 있는 인사이트를 도출해 실질적인 의사결정과 문제 해결로 연결하는 데 관심이 있습니다. ☁️
 </div>
@@ -33,35 +33,68 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://img.shields.io/badge/Java-F6C1CC?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-C1D9F6?style=flat&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-C1D9F6?style=flat&logo=Python&logoColor=333"/>
 <img src="https://img.shields.io/badge/JavaScript-FFF1A8?style=flat&logo=JavaScript&logoColor=333"/>
-<img src="https://img.shields.io/badge/TypeScript-E0D4F7?style=flat&logo=TypeScript&logoColor=333"/>
+<img src="https://img.shields.io/badge/SQL-FADADD?style=flat&logo=postgresql&logoColor=333"/>
+<img src="https://img.shields.io/badge/R-E8E8E8?style=flat&logo=R&logoColor=333"/>
 
 <br/>
 
-### 🧩 Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-CFF3F2?style=flat&logo=React&logoColor=333"/>
-<img src="https://img.shields.io/badge/Next.js-E8E8E8?style=flat&logo=Next.js&logoColor=333"/>
-<img src="https://img.shields.io/badge/Spring Boot-DFF5C9?style=flat&logo=SpringBoot&logoColor=333"/>
-<img src="https://img.shields.io/badge/Flask-FDE2E4?style=flat&logo=Flask&logoColor=333"/>
+### 📊 Data Analysis
+
+<img src="https://img.shields.io/badge/NumPy-F6E5B5?style=flat&logo=numpy&logoColor=333"/>
+<img src="https://img.shields.io/badge/Pandas-F4C9DC?style=flat&logo=pandas&logoColor=333"/>
+<img src="https://img.shields.io/badge/Matplotlib-F2D7C9?style=flat&logo=python&logoColor=333"/>
+<img src="https://img.shields.io/badge/Seaborn-C7DFF2?style=flat&logo=python&logoColor=333"/>
 
 <br/>
 
-### 🤖 Data & AI
-<img src="https://img.shields.io/badge/Pandas-D0E6A5?style=flat&logo=pandas&logoColor=333"/>
-<img src="https://img.shields.io/badge/NumPy-FFDAC1?style=flat&logo=numpy&logoColor=333"/>
+### 🤖 AI / Machine Learning
+
 <img src="https://img.shields.io/badge/Scikit--Learn-B5EAD7?style=flat&logo=scikitlearn&logoColor=333"/>
+<img src="https://img.shields.io/badge/PyTorch-F4C7C3?style=flat&logo=PyTorch&logoColor=333"/>
+<img src="https://img.shields.io/badge/OpenCV-E2E2E2?style=flat&logo=opencv&logoColor=333"/>
 <img src="https://img.shields.io/badge/XGBoost-C7CEEA?style=flat&logo=python&logoColor=333"/>
 <img src="https://img.shields.io/badge/SHAP-FADADD?style=flat&logo=python&logoColor=333"/>
 
 <br/>
 
-### 🛠 Tools
+### 🗄️ Database
+
+<img src="https://img.shields.io/badge/PostgreSQL-F2D8C5?style=flat&logo=postgresql&logoColor=333"/>
+<img src="https://img.shields.io/badge/MySQL-E5D5F2?style=flat&logo=mysql&logoColor=333"/>
+
+<br/>
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Flask-E8E8E8?style=flat&logo=Flask&logoColor=333"/>
+<img src="https://img.shields.io/badge/FastAPI-FADADD?style=flat&logo=FastAPI&logoColor=333"/>
+
+<br/>
+
+### 🌐 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-F6D4CE?style=flat&logo=HTML5&logoColor=333"/>
+<img src="https://img.shields.io/badge/CSS3-E5E5E5?style=flat&logo=CSS3&logoColor=333"/>
+
+<br/>
+
+### 🛠 Development Tools
+
+<img src="https://img.shields.io/badge/PyCharm-D6E8DC?style=flat&logo=PyCharm&logoColor=333"/>
+<img src="https://img.shields.io/badge/VS%20Code-F6D5D0?style=flat&logo=visualstudiocode&logoColor=333"/>
 <img src="https://img.shields.io/badge/Git-EFD6C5?style=flat&logo=Git&logoColor=333"/>
-<img src="https://img.shields.io/badge/Docker-C9E6FF?style=flat&logo=Docker&logoColor=333"/>
-<img src="https://img.shields.io/badge/Figma-FADADD?style=flat&logo=Figma&logoColor=333"/>
-<img src="https://img.shields.io/badge/PostgreSQL-E2F0CB?style=flat&logo=postgresql&logoColor=333"/>
+<img src="https://img.shields.io/badge/GitHub-F6E5B5?style=flat&logo=GitHub&logoColor=333"/>
+<img src="https://img.shields.io/badge/Google%20Colab-C9E6FF?style=flat&logo=GoogleColab&logoColor=333"/>
+
+<br/>
+
+### 🎨 Collaboration / Design
+
+<img src="https://img.shields.io/badge/Notion-E8DDF2?style=flat&logo=Notion&logoColor=333"/>
+<img src="https://img.shields.io/badge/Figma-E8D9CC?style=flat&logo=Figma&logoColor=333"/>
 
 </div>
 
